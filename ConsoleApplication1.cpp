@@ -2,9 +2,11 @@
 //
 
 #include "stdafx.h"
+
+
 /*#include "opencv2/highgui/highgui.hpp"
 #include <iostream>
-
+hihihihihihihih
 using namespace cv;
 using namespace std;
 
