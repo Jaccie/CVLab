@@ -1,8 +1,6 @@
-﻿  stdafx.cpp
-  ConsoleApplication1.cpp
+﻿  ConsoleApplication1.cpp
+c:\users\jacciekao\desktop\consoleapplication1\cvlab\consoleapplication1.cpp(4): error C2859: C:\Users\Jacciekao\Desktop\ConsoleApplication1\CVLab\x64\Debug\vc140.idb 不是建立此先行編譯標頭檔時使用的 idb 檔案，請重新建立先行編譯標頭檔。
 c:\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
 c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
 c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
 c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
-  ConsoleApplication1.vcxproj -> C:\Users\Jacciekao\Desktop\ConsoleApplication1\CVLab\x64\Debug\ConsoleApplication1.exe
-  ConsoleApplication1.vcxproj -> C:\Users\Jacciekao\Desktop\ConsoleApplication1\CVLab\x64\Debug\ConsoleApplication1.pdb (Full PDB)
